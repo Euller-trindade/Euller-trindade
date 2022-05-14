@@ -1,4 +1,5 @@
 ### Olá eu sou o Euller😃.
+-✔  Dev front-end
 -🌱 Estudando Javascript.
 -😄 Pronouns ele/dele.
 <div align="center">
