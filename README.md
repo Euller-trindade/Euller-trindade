@@ -1,6 +1,6 @@
 ### Olá eu sou o Euller😃.
 -✔  Dev front-end
--🌱 Estudando Javascript.
+-🌱 Estudando React.
 -😄 Pronouns ele/dele.
 <div align="center">
   <a href="https://github.com/Euller-trindade">
